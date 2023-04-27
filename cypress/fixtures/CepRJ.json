@@ -1,0 +1,72 @@
+[
+{
+    "address": "Avenida Alfred Agache",
+    "restrictions": [],
+    "number": "20021000",
+    "city": "Rio de Janeiro",
+    "longitude": -43.1705676,
+    "state": "RJ",
+    "id": "20021000-23041",
+    "complement": "",
+    "latitude": -22.9048478,
+    "neighborhood": "Centro",
+    "blockDelivery": false
+  },
+
+  {
+    "address": "Avenida Paulo de Frontin",
+    "restrictions": [],
+    "number": "20261241",
+    "city": "Rio de Janeiro",
+    "longitude": -43.20947200000001,
+    "state": "RJ",
+    "id": "20261241-23041",
+    "complement": "- de 505 ao fim - lado ímpar",
+    "latitude": -22.924204,
+    "neighborhood": "Rio Comprido",
+    "blockDelivery": false
+  },
+
+  {
+    "address": "Avenida Beira-Mar",
+    "restrictions": [],
+    "number": "20021060",
+    "city": "Rio de Janeiro",
+    "longitude": -43.1743495,
+    "state": "RJ",
+    "id": "20021060-23041",
+    "complement": "",
+    "latitude": -22.9137018,
+    "neighborhood": "Centro",
+    "blockDelivery": false
+  },
+
+  {
+    "address": "Beco da Batalha",
+    "restrictions": [],
+    "number": "20021050",
+    "city": "Rio de Janeiro",
+    "longitude": -43.5151235,
+    "state": "RJ",
+    "id": "20021050-23041",
+    "complement": "",
+    "latitude": -22.9266625,
+    "neighborhood": "Centro",
+    "blockDelivery": false
+  },
+  
+  {
+    "address": "Praça Academia",
+    "restrictions": [],
+    "number": "20020030",
+    "city": "Rio de Janeiro",
+    "longitude": -43.2149014,
+    "state": "RJ",
+    "id": "20020030-23041",
+    "complement": "",
+    "latitude": -22.9112549,
+    "neighborhood": "Centro",
+    "blockDelivery": false
+  }
+
+] 

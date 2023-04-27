@@ -1,0 +1,71 @@
+[
+
+    {
+        "address": "Rua Eduardo Guimaraens",
+        "restrictions": [],
+        "number": "01307020",
+        "city": "São Paulo",
+        "longitude": -46.65623739999999,
+        "state": "SP",
+        "id": "01307020-23041",
+        "complement": "",
+        "latitude": -23.5560504,
+        "neighborhood": "Consolação",
+        "blockDelivery": false
+      },
+
+      {
+        "address": "Rua Fernando de Albuquerque",
+        "restrictions": [],
+        "number": "01309030",
+        "city": "São Paulo",
+        "longitude": -46.657958,
+        "state": "SP",
+        "id": "01309030-23041",
+        "complement": "",
+        "latitude": -23.5538066,
+        "neighborhood": "Consolação",
+        "blockDelivery": false
+      },
+      {
+        "address": "Rua Marquês de Paranaguá",
+        "restrictions": [],
+        "number": "01303050",
+        "city": "São Paulo",
+        "longitude": -46.649967,
+        "state": "SP",
+        "id": "01303050-23041",
+        "complement": "",
+        "latitude": -23.5500534,
+        "neighborhood": "Consolação",
+        "blockDelivery": false
+      },
+      {
+        "address": "Rua Nestor Pestana",
+        "restrictions": [],
+        "number": "01303010",
+        "city": "São Paulo",
+        "longitude": -46.6454087,
+        "state": "SP",
+        "id": "01303010-23041",
+        "complement": "",
+        "latitude": -23.5484283,
+        "neighborhood": "Consolação",
+        "blockDelivery": false
+      },
+      {
+        "address": "Viela Caiapitanga",
+        "restrictions": [],
+        "number": "01243060",
+        "city": "São Paulo",
+        "longitude": -46.6619223,
+        "state": "SP",
+        "id": "01243060-23041",
+        "complement": "",
+        "latitude": -23.547068,
+        "neighborhood": "Consolação",
+        "blockDelivery": false
+      }
+
+   
+]
