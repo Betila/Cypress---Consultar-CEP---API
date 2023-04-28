@@ -1,0 +1,69 @@
+[
+
+    {
+        "address": "Avenida Afrânio Peixoto",
+        "restrictions": [],
+        "number": "40470630",
+        "city": "Salvador",
+        "longitude": -38.4843422,
+        "state": "BA",
+        "id": "40470630-23041",
+        "complement": "",
+        "latitude": -12.9242302,
+        "neighborhood": "Lobato",
+        "blockDelivery": false
+    },
+    {
+        "address": "Rua Silveira Martins",
+        "restrictions": [],
+        "number": "41150000",
+        "city": "Salvador",
+        "longitude": -38.4648127,
+        "state": "BA",
+        "id": "41150000-23041",
+        "complement": "",
+        "latitude": -12.9571867,
+        "neighborhood": "Cabula",
+        "blockDelivery": false
+    },
+    {
+        "address": "Estrada das Barreiras",
+        "restrictions": [],
+        "number": "41195000",
+        "city": "Salvador",
+        "longitude": -38.4608144,
+        "state": "BA",
+        "id": "41195000-23041",
+        "complement": "- lado par",
+        "latitude": -12.9457881,
+        "neighborhood": "Barreiras",
+        "blockDelivery": false
+    },
+    {
+        "address": "Rua Direta da Mata Escura",
+        "restrictions": [],
+        "number": "41225190",
+        "city": "Salvador",
+        "longitude": -38.4621235,
+        "state": "BA",
+        "id": "41225190-23041",
+        "complement": "",
+        "latitude": -12.9361202,
+        "neighborhood": "Mata Escura",
+        "blockDelivery": false
+    },
+    {
+        "address": "Rua Pero Vaz",
+        "restrictions": [],
+        "number": "40335000",
+        "city": "Salvador",
+        "longitude": -38.4909613,
+        "state": "BA",
+        "id": "40335000-23041",
+        "complement": "",
+        "latitude": -12.9498567,
+        "neighborhood": "Pero Vaz",
+        "blockDelivery": false
+      }
+
+]

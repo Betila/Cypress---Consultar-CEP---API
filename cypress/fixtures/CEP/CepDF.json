@@ -1,0 +1,68 @@
+[
+    {
+        "address": "Rua Rua 3",
+        "restrictions": [],
+        "number": "73100090",
+        "city": "Brasília",
+        "longitude": -47.8141701,
+        "state": "DF",
+        "id": "73100090-23041",
+        "complement": "",
+        "latitude": -15.6944024,
+        "neighborhood": "Núcleo Rural Lago Oeste (Sobradinho)",
+        "blockDelivery": false
+    },
+    {
+        "address": "Rua Rua 4",
+        "restrictions": [],
+        "number": "73100120",
+        "city": "Brasília",
+        "longitude": -47.8141701,
+        "state": "DF",
+        "id": "73100120-23041",
+        "complement": "",
+        "latitude": -15.6944024,
+        "neighborhood": "Núcleo Rural Lago Oeste (Sobradinho)",
+        "blockDelivery": false
+    },
+    {
+        "address": "Setor SAM Bloco I",
+        "restrictions": [],
+        "number": "70620090",
+        "city": "Brasília",
+        "longitude": -47.9067193,
+        "state": "DF",
+        "id": "70620090-23041",
+        "complement": "",
+        "latitude": -15.7824673,
+        "neighborhood": "Setores Complementares",
+        "blockDelivery": false
+    },
+    {
+        "address": "Condomínio Residencial Nova Betânia Quadra 19",
+        "restrictions": [],
+        "number": "72669690",
+        "city": "Brasília",
+        "longitude": -48.2332257,
+        "state": "DF",
+        "id": "72669690-23041",
+        "complement": "",
+        "latitude": -15.9431748,
+        "neighborhood": "Recanto das Emas",
+        "blockDelivery": false
+    },
+    {
+        "address": "Condomínio Residencial Nova Betânia Quadra 18",
+        "restrictions": [],
+        "number": "72669685",
+        "city": "Brasília",
+        "longitude": -48.2332257,
+        "state": "DF",
+        "id": "72669685-23041",
+        "complement": "",
+        "latitude": -15.9431748,
+        "neighborhood": "Recanto das Emas",
+        "blockDelivery": false
+    }
+
+]

@@ -1,0 +1,56 @@
+[
+
+    {
+        "address": "Travessa Santa Luzia",
+        "restrictions": [],
+        "number": "69908650",
+        "city": "Rio Branco",
+        "longitude": -67.8353656,
+        "state": "AC",
+        "id": "69908650-23041",
+        "complement": "",
+        "latitude": -9.983552699999999,
+        "neighborhood": "Loteamento Santa Helena",
+        "blockDelivery": false
+    },
+
+    {
+        "address": "Rua Frei Peregrino",
+        "restrictions": [],
+        "number": "69909400",
+        "city": "Rio Branco",
+        "longitude": -67.757662,
+        "state": "AC",
+        "id": "69909400-23041",
+        "complement": "",
+        "latitude": -10.0245007,
+        "neighborhood": "Cidade do Povo",
+        "blockDelivery": false
+    },
+    {
+        "address": "Rua José Miranda",
+        "restrictions": [],
+        "number": "69909360",
+        "city": "Rio Branco",
+        "longitude": -67.7524298,
+        "state": "AC",
+        "id": "69909360-23041",
+        "complement": "",
+        "latitude": -10.0255952,
+        "neighborhood": "Cidade do Povo",
+        "blockDelivery": false
+    },
+    {
+        "address": "Rua Afonso Pena",
+        "restrictions": [],
+        "number": "69909740",
+        "city": "Rio Branco",
+        "longitude": -67.7990155,
+        "state": "AC",
+        "id": "69909740-23041",
+        "complement": "",
+        "latitude": -10.0374184,
+        "neighborhood": "Vila Acre",
+        "blockDelivery": false
+    }
+]

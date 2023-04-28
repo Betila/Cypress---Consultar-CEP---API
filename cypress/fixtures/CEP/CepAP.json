@@ -1,0 +1,81 @@
+[
+
+    {
+        "address": "Rua Hugo Alves Pinto",
+        "restrictions": [],
+        "number": "68905630",
+        "city": "Macapá",
+        "longitude": -51.0482241,
+        "state": "AP",
+        "id": "68905630-23041",
+        "complement": "",
+        "latitude": 0.0448566,
+        "neighborhood": "Perpétuo Socorro",
+        "blockDelivery": false
+      },
+      {
+        "address": "Rua Claudomiro de Moraes",
+        "restrictions": [],
+        "number": "68904001",
+        "city": "Macapá",
+        "longitude": -51.0804379,
+        "state": "AP",
+        "id": "68904001-23041",
+        "complement": "- até 1794/1795",
+        "latitude": 0.0172866,
+        "neighborhood": "Novo Buritizal",
+        "blockDelivery": false
+      },
+      {
+        "address": "Avenida Padre Júlio Maria Lombaerd",
+        "restrictions": [],
+        "number": "68900030",
+        "city": "Macapá",
+        "longitude": -51.0701234,
+        "state": "AP",
+        "id": "68900030-23041",
+        "complement": "- até 2404/2405",
+        "latitude": 0.0355463,
+        "neighborhood": "Central",
+        "blockDelivery": false
+      },
+      {
+        "address": "Avenida Padre Júlio Maria Lombaerd",
+        "restrictions": [],
+        "number": "68900030",
+        "city": "Macapá",
+        "longitude": -51.0701234,
+        "state": "AP",
+        "id": "68900030-23041",
+        "complement": "- até 2404/2405",
+        "latitude": 0.0355463,
+        "neighborhood": "Central",
+        "blockDelivery": false
+      },
+      {
+        "address": "Avenida Mendonça Júnior",
+        "restrictions": [],
+        "number": "68900020",
+        "city": "Macapá",
+        "longitude": -51.0707247,
+        "state": "AP",
+        "id": "68900020-23041",
+        "complement": "- até 2309/2310",
+        "latitude": 0.034391,
+        "neighborhood": "Central",
+        "blockDelivery": false
+      },
+      {
+        "address": "Rua São José",
+        "restrictions": [],
+        "number": "68900110",
+        "city": "Macapá",
+        "longitude": -51.05127719999999,
+        "state": "AP",
+        "id": "68900110-23041",
+        "complement": "- de 1241/1242 ao fim",
+        "latitude": 0.0420005,
+        "neighborhood": "Central",
+        "blockDelivery": false
+      }
+]

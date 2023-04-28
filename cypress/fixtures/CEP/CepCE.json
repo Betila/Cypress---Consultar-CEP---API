@@ -1,0 +1,70 @@
+[
+
+{
+  "address": "Rua São Pedro",
+  "restrictions": [],
+  "number": "63010010",
+  "city": "Juazeiro do Norte",
+  "longitude": -39.31769389999999,
+  "state": "CE",
+  "id": "63010010-23041",
+  "complement": "- até 1198/1199",
+  "latitude": -7.209764999999999,
+  "neighborhood": "Centro",
+  "blockDelivery": false
+},
+{
+    "address": "Avenida Presidente Castelo Branco",
+    "restrictions": [],
+    "number": "60312060",
+    "city": "Fortaleza",
+    "longitude": -38.55932,
+    "state": "CE",
+    "id": "60312060-23041",
+    "complement": "- de 2001 a 3149 - lado ímpar",
+    "latitude": -3.7111346,
+    "neighborhood": "Carlito Pamplona",
+    "blockDelivery": false
+  },
+  {
+    "address": "Avenida Senador Fernandes Távora",
+    "restrictions": [],
+    "number": "60510290",
+    "city": "Fortaleza",
+    "longitude": -38.5784282,
+    "state": "CE",
+    "id": "60510290-23041",
+    "complement": "- de 596 a 2146 - lado par",
+    "latitude": -3.7640596,
+    "neighborhood": "Henrique Jorge",
+    "blockDelivery": false
+  },
+  {
+    "address": "Rua Castro e Silva",
+    "restrictions": [],
+    "number": "60030010",
+    "city": "Fortaleza",
+    "longitude": -38.530627,
+    "state": "CE",
+    "id": "60030010-23041",
+    "complement": "",
+    "latitude": -3.7227918,
+    "neighborhood": "Centro",
+    "blockDelivery": false
+  },
+
+{
+  "address": "Avenida Monsenhor Tabosa",
+  "restrictions": [],
+  "number": "60165011",
+  "city": "Fortaleza",
+  "longitude": -38.5126475,
+  "state": "CE",
+  "id": "60165011-23041",
+  "complement": "- até 745 - lado ímpar",
+  "latitude": -3.7238166,
+  "neighborhood": "Praia de Iracema",
+  "blockDelivery": false
+}
+
+]

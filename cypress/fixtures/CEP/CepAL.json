@@ -1,0 +1,70 @@
+[
+
+    {
+        "address": "Avenida Senador Rui Palmeira",
+        "restrictions": [],
+        "number": "57015430",
+        "city": "Maceió",
+        "longitude": -35.7652731,
+        "state": "AL",
+        "id": "57015430-23041",
+        "complement": "",
+        "latitude": -9.6724762,
+        "neighborhood": "Vergel do Lago",
+        "blockDelivery": false
+      },
+      {
+        "address": "Avenida Senador Rui Palmeira",
+        "restrictions": [],
+        "number": "57015430",
+        "city": "Maceió",
+        "longitude": -35.7652731,
+        "state": "AL",
+        "id": "57015430-23041",
+        "complement": "",
+        "latitude": -9.6724762,
+        "neighborhood": "Vergel do Lago",
+        "blockDelivery": false
+      },
+      {
+        "address": "Avenida Vereador Dário Marsíglia",
+        "restrictions": [],
+        "number": "57081015",
+        "city": "Maceió",
+        "longitude": -35.759379,
+        "state": "AL",
+        "id": "57081015-23041",
+        "complement": "",
+        "latitude": -9.5716316,
+        "neighborhood": "Tabuleiro do Martins",
+        "blockDelivery": false
+      },
+      {
+        "address": "Avenida Belmiro Amorim",
+        "restrictions": [],
+        "number": "57082000",
+        "city": "Maceió",
+        "longitude": -35.75796340000001,
+        "state": "AL",
+        "id": "57082000-23041",
+        "complement": "",
+        "latitude": -9.5796917,
+        "neighborhood": "Santa Lúcia",
+        "blockDelivery": false
+      },
+
+      {
+        "address": "Rua São Francisco",
+        "restrictions": [],
+        "number": "57300080",
+        "city": "Arapiraca",
+        "longitude": -36.661941,
+        "state": "AL",
+        "id": "57300080-23041",
+        "complement": "- até 481/482",
+        "latitude": -9.753835500000001,
+        "neighborhood": "Centro",
+        "blockDelivery": false
+      }
+
+]

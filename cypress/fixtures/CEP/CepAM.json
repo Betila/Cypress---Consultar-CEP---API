@@ -1,0 +1,69 @@
+[
+
+    {
+        "address": "Avenida Amazonas",
+        "restrictions": [],
+        "number": "69151000",
+        "city": "Parintins",
+        "longitude": -56.7346318,
+        "state": "AM",
+        "id": "69151000-23041",
+        "complement": "",
+        "latitude": -2.6271909,
+        "neighborhood": "Centro",
+        "blockDelivery": false
+    },
+    {
+        "address": "Avenida Itaúba",
+        "restrictions": [],
+        "number": "69088240",
+        "city": "Manaus",
+        "longitude": -59.9305819,
+        "state": "AM",
+        "id": "69088240-23041",
+        "complement": "",
+        "latitude": -3.0421975,
+        "neighborhood": "Jorge Teixeira",
+        "blockDelivery": false
+      },
+      {
+        "address": "Avenida Árica",
+        "restrictions": [],
+        "number": "69075771",
+        "city": "Manaus",
+        "longitude": -60.0132646,
+        "state": "AM",
+        "id": "69075771-23041",
+        "complement": "",
+        "latitude": -3.096279,
+        "neighborhood": "Mauazinho",
+        "blockDelivery": false
+      },
+      {
+        "address": "Rua Campos Bravos",
+        "restrictions": [],
+        "number": "69047000",
+        "city": "Manaus",
+        "longitude": -60.04184619999999,
+        "state": "AM",
+        "id": "69047000-23041",
+        "complement": "",
+        "latitude": -3.0544282,
+        "neighborhood": "Redenção",
+        "blockDelivery": false
+      },
+      {
+        "address": "Avenida Floriano Peixoto",
+        "restrictions": [],
+        "number": "69005070",
+        "city": "Manaus",
+        "longitude": -60.0233546,
+        "state": "AM",
+        "id": "69005070-23041",
+        "complement": "",
+        "latitude": -3.1377266,
+        "neighborhood": "Centro",
+        "blockDelivery": false
+      }
+
+]
